@@ -1,1 +1,1 @@
-other strings
+strings finished
